@@ -11,6 +11,7 @@
                 <div class="card">
                     <div class="header">
                         <h4 class="title">Insert Product</h4>
+                        <p>deskripi inputan</p>
                     </div>
                     <div class="content">
                         {!! Form::open(['url' => '/transaction/store']) !!}

@@ -20,6 +20,11 @@
                         <p>Log out</p>
                     </a>
                 </li>
+                <li>
+                    <a href="/logout">
+                        <p>masukan</p>
+                    </a>
+                </li>
                 <li class="separator hidden-lg"></li>
             </ul>
         </div>
